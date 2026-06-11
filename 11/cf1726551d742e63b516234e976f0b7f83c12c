@@ -1,0 +1,19 @@
+gem/lib/generators/ruby_ui/component/all_generator.rb
+  s_1afdbeafb00dd6::t_97f598860e6818 13-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "11cf1726551d742e63b516234e976f0b7f83c12c",
+  "prompts": {},
+  "sessions": {
+    "s_1afdbeafb00dd6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "902a1c64-8142-4b91-9666-4001e8cb9fe2",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Jackson Pires <jackson.pires@gmail.com>"
+    }
+  }
+}
