@@ -1,0 +1,26 @@
+gem/lib/ruby_ui/dropdown_menu/dropdown_menu_item.rb
+  s_faf8d058da74dc::t_d2d4f1931969aa 5-6,12-16,22
+  s_faf8d058da74dc::t_89dcc91d19039f 30-31
+gem/test/ruby_ui/dropdown_menu_item_test.rb
+  s_faf8d058da74dc::t_9e8b99f197c7a5 1-31
+mcp/data/registry.json
+  s_faf8d058da74dc::t_16aef068184871 1325
+docs/app/views/docs/dropdown_menu.rb
+  s_faf8d058da74dc::t_76f44c401f7f59 29-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "5b3e3c2ce3cfec35b9723a17478c6c7d6ea3664d",
+  "prompts": {},
+  "sessions": {
+    "s_faf8d058da74dc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c9cb3797-2683-43de-a111-37458c4575e7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Jackson Pires <jackson.pires@gmail.com>"
+    }
+  }
+}
