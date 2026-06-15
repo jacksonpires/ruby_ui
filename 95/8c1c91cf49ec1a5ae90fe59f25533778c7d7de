@@ -1,0 +1,21 @@
+gem/lib/ruby_ui/tabs/tabs_trigger.rb
+  s_faf8d058da74dc::t_6bd0717ee831e3 36
+gem/test/ruby_ui/tabs_trigger_test.rb
+  s_faf8d058da74dc::t_228b4dc018c94c 25-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "958c1c91cf49ec1a5ae90fe59f25533778c7d7de",
+  "prompts": {},
+  "sessions": {
+    "s_faf8d058da74dc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c9cb3797-2683-43de-a111-37458c4575e7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Jackson Pires <jackson.pires@gmail.com>"
+    }
+  }
+}
